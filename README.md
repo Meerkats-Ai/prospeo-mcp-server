@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/meerkats-ai-prospeo-mcp-server-badge.png)](https://mseep.ai/app/meerkats-ai-prospeo-mcp-server)
+
 # Prospeo MCP Server
 
 This is a Model Context Protocol (MCP) server that integrates with the Prospeo API to provide email finding and LinkedIn profile enrichment capabilities.
